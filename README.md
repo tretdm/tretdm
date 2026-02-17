@@ -3,6 +3,7 @@
 
 I am a hobby developer who has contributed to projects such as [OpenVK](https://github.com/openvk)<sup>*</sup> and [Snowdroid](https://gitlab.com/snowdroid). In addition, I write applications for Android, Windows and the web.
 
-You can view the projects below or by following the [link](https://github.com/tinelix).
+**You can view the projects below or by following the [link](https://github.com/tinelix).** \
+**Any questions?** Write [here](mailto:tinelix@mail.ru).
 
 ###### * OpenVK is fan project and not affiliated in any way with VKontakte and VK LLC.
